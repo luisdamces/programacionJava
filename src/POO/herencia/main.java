@@ -10,5 +10,6 @@ public class main {
         System.out.println("Sonido: " + baldomero.getSound());
         baldomero.comer();
         baldomero.acariciar();
+        // esto es un comentario
     }
 }
